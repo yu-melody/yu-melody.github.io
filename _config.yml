@@ -1,0 +1,16 @@
+title: Melody Yu
+description: Personal website of Melody Yu
+url: "https://yu-melody.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
